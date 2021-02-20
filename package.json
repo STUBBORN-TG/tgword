@@ -1,0 +1,26 @@
+{
+  "name": "tgword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STUBBORN-TG/tgword.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/STUBBORN-TG/tgword/issues"
+  },
+  "homepage": "https://github.com/STUBBORN-TG/tgword#readme",
+  "dependencies": {
+    "koa": "^2.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
